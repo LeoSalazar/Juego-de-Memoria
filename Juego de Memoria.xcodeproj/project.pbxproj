@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		A7650B951C8FD88E00EB165B /* Juego de Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Juego de Memoria.playground"; sourceTree = "<group>"; };
+		A7650B961C8FD8E600EB165B /* Juego de Memoria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Juego de Memoria.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		A7650B8E1C8FD87A00EB165B = {
 			isa = PBXGroup;
 			children = (
+				A7650B961C8FD8E600EB165B /* Juego de Memoria.swift */,
+				A7650B951C8FD88E00EB165B /* Juego de Memoria.playground */,
 			);
 			sourceTree = "<group>";
 		};
